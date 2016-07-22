@@ -1,4 +1,4 @@
-<keymap version="1" name="Mason keymap" parent="TextMate">
+<keymap version="1" name="Mason keymap">
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
