@@ -7,11 +7,11 @@
   <action id="EditorChooseLookupItem" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
-  <action id="EditorEnter" />
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="EditorIndentSelection" />
+  <action id="EditorStartNewLine" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
