@@ -4,7 +4,6 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
-  <action id="EditorChooseLookupItem" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorIndentLineOrSelection">
