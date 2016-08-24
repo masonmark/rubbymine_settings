@@ -1,4 +1,8 @@
 <keymap version="1" name="Mason 2016" parent="Mac OS X">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="Console.Execute" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
@@ -10,6 +14,7 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="EditorIndentSelection" />
+  <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
