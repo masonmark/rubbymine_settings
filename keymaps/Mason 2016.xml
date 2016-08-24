@@ -21,16 +21,21 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift meta alt n" />
-    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
