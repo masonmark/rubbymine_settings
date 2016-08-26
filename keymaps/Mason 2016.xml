@@ -22,17 +22,21 @@
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorScrollBottom">
-    <keyboard-shortcut first-keystroke="meta down" />
     <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollTop">
-    <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
