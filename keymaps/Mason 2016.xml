@@ -1,4 +1,8 @@
 <keymap version="1" name="Mason 2016" parent="Mac OS X">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="Console.Execute" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
@@ -10,7 +14,29 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="EditorIndentSelection" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="EditorScrollUp" />
+  <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
@@ -21,16 +47,21 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift meta alt n" />
-    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
