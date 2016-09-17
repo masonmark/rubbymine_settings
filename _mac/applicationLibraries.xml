@@ -300,6 +300,16 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/cocoapods-try-1.0.0.beta.2/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/coderay-1.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/coderay-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/coderay-1.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/coderay-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="colored (v1.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/colored-1.2/lib" />
@@ -382,6 +392,18 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.2.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
     <library name="escape (v0.0.4, rbenv: 2.3.0) [gem]">
@@ -560,6 +582,16 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/2.3.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="io-console (v0.4.6, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/io-console/0.4.6" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/io-console-0.4.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/io-console/0.4.6" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/io-console-0.4.6/lib" />
+      </SOURCES>
+    </library>
     <library name="jazzy (v0.6.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/jazzy-0.6.0/bin" />
@@ -656,6 +688,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/liferaft-0.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.8.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v4.3.2, ruby-2.0.0-p481) [gem]">
@@ -836,6 +876,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/powerpack-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-0.10.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-0.10.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="psych (v2.0.0, ruby-2.0.0-p481) [gem]">
@@ -1090,6 +1140,48 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rouge-1.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.3.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-3.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.3.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-core-3.3.2/exe" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-core-3.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-core-3.3.2/exe" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-core-3.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.3.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.3.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.3.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-support-3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rspec-support-3.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.29.1, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rubocop-0.29.1/bin" />
@@ -1166,6 +1258,14 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sass-3.4.22/extra" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sass-3.4.22/rails" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sass-3.4.22/vendor" />
+      </SOURCES>
+    </library>
+    <library name="slop (v3.6.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="sqlite3 (v1.3.11, rbenv: 2.3.0) [gem]">
@@ -1274,6 +1374,16 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, rbenv: 2.3.0) [gem]">
