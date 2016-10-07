@@ -2,6 +2,6 @@
   <component name="CodeInsightSettings">
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
-    <option name="REFORMAT_ON_PASTE" value="4" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
   </component>
 </application>
