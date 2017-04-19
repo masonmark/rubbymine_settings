@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../test/e2e/protractor-conf/protractor-ci.conf.js - [user-console]'" />
-    <option name="defaultScopeName" value="File '.../test/e2e/protractor-conf/protractor-ci.conf.js - [user-console]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../test/e2e/protractor-conf/protractor-ci.conf.js - [user-console]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
