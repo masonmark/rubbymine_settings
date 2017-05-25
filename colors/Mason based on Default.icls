@@ -4,7 +4,7 @@
     <property name="created">2016-11-26T15:01:49</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-04-13T01:11:18</property>
+    <property name="modified">2017-05-25T16:47:33</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="11" />
@@ -15,7 +15,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="e8e9ff" />
+        <option name="BACKGROUND" value="f4f8ff" />
       </value>
     </option>
   </attributes>
