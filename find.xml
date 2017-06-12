@@ -13,12 +13,12 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
+      <mask>.op</mask>
+      <mask>.o</mask>
       <mask>.</mask>
-      <mask>.j</mask>
-      <mask>.ja</mask>
-      <mask>.jad</mask>
-      <mask>.jade</mask>
-      <mask>*.jade</mask>
+      <mask>*</mask>
+      <mask>*.po.</mask>
+      <mask>*.po.js</mask>
     </recentFileMasks>
   </component>
 </application>
